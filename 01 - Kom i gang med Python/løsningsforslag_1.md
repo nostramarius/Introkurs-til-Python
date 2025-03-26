@@ -66,7 +66,8 @@ seg, så vi ikke blindt følger det som blir foreslått, men undersøker det sel
 SyntaxError: invalid syntax. Perhaps you forgot a comma?
 ```
 
-> [!NOTE] Andre typer feil Det finnes mange andre feiltyper i python, som du
+> [!NOTE]
+> Andre typer feil Det finnes mange andre feiltyper i python, som du
 > sikkert vil møte på etterhvert. Når de oppstår, pass på at du leser
 > feilmeldingen og undersøker hva som kan være feil. Ofte er det små ting, som
 > feilstavinger og at du har glemt et tegn som er problemet. Senere i dette
