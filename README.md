@@ -11,6 +11,7 @@ til et element ved å skrive kode i Python. Leksjonene inneholder:
 - Oppgaver
 - Løsningsforslag til oppgaver
 
+Det vil bli lagt til flere leksjoner etterhvert.
 ---
 
 Alt på dette området er delt under en CC-BY-SA lisens. Les mer om dette i
